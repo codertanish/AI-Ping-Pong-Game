@@ -92,6 +92,55 @@ background-size: cover;
     color: #fff;
     text-decoration: none;
   }
+
+  .footer {
+    position: sticky;
+  }
+
+  .modal-dialog {
+    width: 90%;
+  }
+
+
+  .btn-grad4 {
+    background-image: linear-gradient(to right, #4CB8C4 0%, #3CD3AD  51%, #4CB8C4  100%);
+    margin: 10px;
+    padding: 5px 15px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    border-radius: 10px;
+    display: block;
+  }
+
+  .btn-grad4:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+
+           
+  .btn-grad5 {
+    background-image: linear-gradient(to right, #232526 0%, #414345  51%, #232526  100%);
+    padding: 5px 15px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;            
+    display: block;
+    line-height: 2;
+  }
+
+  .btn-grad5:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+  }
+ 
+ 
  
  
  
