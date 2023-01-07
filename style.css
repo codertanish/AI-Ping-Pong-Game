@@ -139,6 +139,12 @@ background-size: cover;
     color: #fff;
     text-decoration: none;
   }
+
+ canvas {
+  box-shadow: 5px 5px 5px grey;
+  border: black 5px solid;
+  border-radius: 20px;
+ }
  
  
  
